@@ -1,7 +1,7 @@
 
 # React-Native-Portfolio
 
-[## Pomodoro Timer](https://github.com/carneirodee/pomodoroTimer)
+## [Pomodoro Timer](https://github.com/carneirodee/pomodoroTimer)
   ### Simple Pomodoro app with many features:
   - Pomodoro timer
  -  Stopwatch
