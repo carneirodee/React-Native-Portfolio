@@ -15,12 +15,18 @@
 	  - Context Api
 	  - Hooks
 	  - Sqlite
+
   
+
+https://github.com/user-attachments/assets/e9069486-aca4-4585-9a92-986d353c779b
+
+
   ## [Drinko](https://github.com/carneirodee/drinko)
   ### Simple app for rating restaurants, bars and more:
   
-[Video](%28https://www.youtube.com/watch?v=rcuEJKUNsJQ%29)
   
+https://github.com/user-attachments/assets/701a3e2f-00c2-416f-92ea-d8280bcf9f2f
+
 
 
 
